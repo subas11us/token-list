@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Reward Token
 
 You can use the [editor on GitHub](https://github.com/subas11us/token-list/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
