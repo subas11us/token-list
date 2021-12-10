@@ -1,27 +1,27 @@
-## Reward Token
+# Reward Token
 
-### Purpose
+## Purpose
 As the token name suggests, the primary use of this token is to reward prople. You can also use it to give as gift.
 
-### Use cases
+## Use cases
 
-# As Employer. 
+### As Employer. 
 You can transfer reward tokens to improve and/or appreciate productivity of employee(s).
 
-# As Business owner. 
+### As Business owner. 
 You can transfer reward tokens to existing customers for loyality or to acquire new customers.
 
-# As parents
+### As parents
 You can transfer reward rokens to incentivise good behavior from kids.
 
-### Maximum tokens
+## Maximum tokens
 100 million tokens. No more and no less. 
 
-### Staking rewards
+## Staking rewards
 None
 
-### Governance model
+## Governance model
 TBD
 
-### Support or Contact
+## Support or Contact
 contact support@rewardtoken.world for any question or concern.
